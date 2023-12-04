@@ -4,12 +4,12 @@ import { getFirestore } from '@firebase/firestore'
 import 'firebase/compat/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB3sT-KmaS8DmtR3Yi2BNq1i81LitJrvjg",
-  authDomain: "meets-124bc.firebaseapp.com",
-  projectId: "meets-124bc",
-  storageBucket: "meets-124bc.appspot.com",
-  messagingSenderId: "105615395071",
-  appId: "1:105615395071:web:94a40cd9cd47a508afa4ca"
+  apiKey: "AIzaSyASyowCVD7RJZA7mFePmagxyOU7R_wBSYM",
+  authDomain: "meets-38b6d.firebaseapp.com",
+  projectId: "meets-38b6d",
+  storageBucket: "meets-38b6d.appspot.com",
+  messagingSenderId: "655144067546",
+  appId: "1:655144067546:web:f9789cefc55ab0938f20e3"
 };
 
 const app = initializeApp(firebaseConfig);
